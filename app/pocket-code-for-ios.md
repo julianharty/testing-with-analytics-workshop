@@ -5,17 +5,17 @@ The Pocket Code app is available at the App Store (https://apps.apple.com/us/app
 
 - Open the *App Store* on your iPhone and click on *Search*:
 
-[App Store]: IMAGE1
+![App Store](./images/app-store.png)
 
 - In the search bar enter **Pocket Code**
 
-[Search]: IMAGE2
+![App Store Search](./images/app-store-search.png)
 
 - Install and open the app
 
 - Accept *Pocket Code*'s Privacy Policy
 
-[Privacy Policy]: IMAGE3
+![Pocket Code Privacy Policy](./images/privacy-policy.png)
 
 
 ## Limitations
@@ -24,3 +24,8 @@ Pocket Code for iOS is still in development and does not ship with all the featu
 ## How to use Pocket Code
 A quick 60 second guide is available at https://www.catrobat.org/intro/ (press next to continue the instructions). 
 The Catrobat project provides various guides to help people learn how to use the app https://share.catrob.at/pocketcode/help
+
+
+# Testing Pocket Code for iOS
+
+[Click here](./pocket-code-for-ios-testing.md) to find out details on how to use *Pocket Code* for this workshop.
