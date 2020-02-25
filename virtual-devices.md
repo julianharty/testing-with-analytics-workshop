@@ -1,7 +1,7 @@
 # Virtual Devices
 If you want to use a virtual device, the relevant software is freely available for Android, albeit sometimes fairly involved to actually create.
 
-Here are some articles online for creating Android virtual devices. Of these, the most reliable is to install the Android Studio software, however that's a large install and only a small subset is actually needed. 
+Here are some articles online for creating Android virtual devices. Of these, the most reliable is to install the Android Studio software, however that's a large install and only a small subset is actually needed. We have tested creating and using the Android Virtual Devices provided by Google.
 
 * Amiduos (however this was discontinued in 2018, see archived blog post and apprently many of the downloads may have a virus)
 * Using Gennymotion (2018) for personal research purposes https://www.bellingcat.com/resources/how-tos/2018/08/23/creating-android-open-source-research-device-pc/
