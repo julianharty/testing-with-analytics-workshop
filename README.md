@@ -8,7 +8,7 @@ You're welcome to preinstall the app and get to know the [Pocket Code](app/pocke
 Materials for some of the sessions are available on this site
 * [Bootstrap](workshop/bootstrap.md)
 * [Test techniques](workshop/test-techniques.md)
-* [Pulbic analytics](workshop/public-analytics.md)
+* [Public analytics](workshop/public-analytics.md)
 
 # Additional materials
 [The Mobile Analytics Playbook](http://www.themobileanalyticsplaybook.com/) (2015/2016) co-written Julian Harty and Antoine Aymer 
