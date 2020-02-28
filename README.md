@@ -4,6 +4,11 @@ Supporting material for my testing with analytics workshop
 # helpful preparations
 You're welcome to preinstall the app and get to know the [Pocket Code](app/pocket-code.md) app. Unless you receive explicit instructions please try installing the published version of the app from the relevant app store.
 
+# Additional materials
+[The Mobile Analytics Playbook](http://www.themobileanalyticsplaybook.com/) (2015/2016) co-written Julian Harty and Antoine Aymer 
+
+[Don’t Panic Mobile Developer's Guide to the Galaxy](https://www.open-xchange.com/resources/mobile-developers-guide-to-the-galaxy/)
+
 # reporting bugs
 You're encouraged to report bugs, details are in [the Bugs page](bugs.md).
 
