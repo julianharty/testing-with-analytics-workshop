@@ -9,5 +9,8 @@ You're encouraged to report bugs, details are in [the Bugs page](bugs.md).
 
 If you have a real phone you are willing to use, that's great. Otherwise you can have a go at using one of the various online device test farms or a virtual device. There are various tutorials and guides available. Here are some to get you started for [virtual devices](virtual-devices.md), we have not tested these unless we say so on this site.
 
+# Contributing materials
+During the workshop we have an online chat service called padlet https://padlet.com/julianharty/ib3hfu9pg8q4 where you can add comments, links, ideas, complaints, etc. and vote. You're also very welcome to email me julianharty@gmail.com today and in future regarding this topic. If you permit I may use what you share as part of my PhD research.
+
 
 
