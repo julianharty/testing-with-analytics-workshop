@@ -22,8 +22,8 @@ If you have a real phone you are willing to use, that's great. Otherwise you can
 
 # Contributing materials
 During the workshop we have an online chat service called padlet https://padlet.com/julianharty/ib3hfu9pg8q4 where you can add comments, links, ideas, complaints, etc. and vote. You're also very welcome to email me julianharty@gmail.com today and in future regarding this topic. If you permit I may use what you share as part of my PhD research.
-
-## Feedback in the workshop
+ 
+## Feedback in the workshop
 We have a chat program called padlet where we can add comments, feedback etc. https://padlet.com/julianharty/ib3hfu9pg8q4
 
 
