@@ -8,6 +8,7 @@ You're welcome to preinstall the app and get to know the [Pocket Code](app/pocke
 Materials for some of the sessions are available on this site
 * [Bootstrap](workshop/bootstrap.md)
 * [Test techniques](workshop/test-techniques.md)
+* [Pulbic analytics](workshop/public-analytics.md)
 
 # Additional materials
 [The Mobile Analytics Playbook](http://www.themobileanalyticsplaybook.com/) (2015/2016) co-written Julian Harty and Antoine Aymer 
@@ -22,5 +23,7 @@ If you have a real phone you are willing to use, that's great. Otherwise you can
 # Contributing materials
 During the workshop we have an online chat service called padlet https://padlet.com/julianharty/ib3hfu9pg8q4 where you can add comments, links, ideas, complaints, etc. and vote. You're also very welcome to email me julianharty@gmail.com today and in future regarding this topic. If you permit I may use what you share as part of my PhD research.
 
+## Feedback in the workshop
+We have a chat program called padlet where we can add comments, feedback etc. https://padlet.com/julianharty/ib3hfu9pg8q4
 
 
