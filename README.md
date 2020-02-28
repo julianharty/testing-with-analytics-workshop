@@ -2,7 +2,12 @@
 Supporting material for my testing with analytics workshop
 
 # helpful preparations
-You're welcome to preinstall the app and get to know the [Pocket Code](app/pocket-code.md) app. Unless you receive explicit instructions please try installing the published version of the app from the relevant app store.
+You're welcome to preinstall the app and get to know the [Pocket Code](app/pocket-code.md) app. Unless you receive explicit instructions please try installing the published version of the app from the relevant app store. If you'd like to work with the source code try [get involved](app/get-involved.md)
+
+# material for various sessions
+Materials for some of the sessions are available on this site
+* [Bootstrap](workshop/bootstrap.md)
+* [Test techniques](workshop/test-techniques.md)
 
 # Additional materials
 [The Mobile Analytics Playbook](http://www.themobileanalyticsplaybook.com/) (2015/2016) co-written Julian Harty and Antoine Aymer 
